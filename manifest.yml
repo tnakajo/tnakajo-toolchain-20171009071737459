@@ -1,6 +1,6 @@
 ---
 applications:
- - name: GetStartedJava
+ - name: tnakajo-GetStartedJava-1009
    random-route: true
    path: target/GetStartedJava.war
    memory: 256M
